@@ -1,1 +1,1 @@
-# JustBehaveScribble
+# JustBehaveBowlingGameKata
